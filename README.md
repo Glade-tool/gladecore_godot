@@ -61,4 +61,4 @@ as `EULA.md`). Bundled third-party components retain their own licenses (see
 
 ## Also available for
 
-[Unreal Engine](https://www.gladecore.com/) · [Unity](https://www.gladecore.com/)
+[Unreal Engine](https://www.gladecore.com/)
